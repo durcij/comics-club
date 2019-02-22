@@ -15,7 +15,7 @@ plugins:
 url: 'https://comicsclub.netlify.com/'
 baseurl: ''
 title: 'Comics Club'
-description: 'The Official Comics Club Blog'
+description: 'The Official Comics Club Web Page'
 permalink: pretty
 logo: "images/logo.png"
 
@@ -28,4 +28,4 @@ collections:
   posts:
     title: Blog
     output: true
-    description: "There isn't much going on here yet, but watch this space"
+    description: "This is where we post our updates!"
