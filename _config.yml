@@ -12,12 +12,12 @@ plugins:
 - jekyll-paginate
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://comicsclub.netlify.com/'
 baseurl: ''
-title: 'My blog'
-description: 'This is my new blog'
+title: 'Comics Club at Allegheny College'
+description: 'The Official Comics Club Blog'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"
+logo: "images/logo.png"
 
 # Pagination
 paginate: 5
