@@ -14,7 +14,7 @@ plugins:
 # Site settings
 url: 'https://comicsclub.netlify.com/'
 baseurl: ''
-title: 'Comics Club at Allegheny College'
+title: 'Comics Club'
 description: 'The Official Comics Club Blog'
 permalink: pretty
 logo: "images/logo.png"
