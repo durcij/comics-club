@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Hello World
+title: Welcome to Comics Club!
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "images/blog/welcome.jpg"
 ---
 
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+This is our very first post on the new blog!  We're hoping to be able to utilize this website to post high-priority announcements, updates on situations, and more!
+
+We're excited to see how it goes!
