@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+indexing: false
+sitemap: false
 ---
 
 We're Allegheny College's one and only Comics Club!  We do things that relate to comics, obviously, but we're not limited to comics.  We also discuss anime, cartoons, and all sorts of things!  This website will help to keep you up to date on our events, meetings, and changes.
