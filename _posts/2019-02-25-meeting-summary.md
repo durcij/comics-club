@@ -21,7 +21,7 @@ CCC this week will be a live read of Deadpool:  Dead Presidents!  It will defini
 
 The final deadline for Green Stripe submission will be on March 11th, 2019, right around the start of Spring Break.  Make sure to finish up any submissions before then so that we can include them in the Greenstripe!
 
-Tekko, Pittsburgh's annual anime convention is coming pretty soon!  Make sure you're signed up by this Thursday, February 27, 2019!  You can sign up at by following the link [here](https://docs.google.com/forms/d/e/1FAIpQLSfqyNw8RlghYUE4rZ8syBBTlzDsaLfYuWEN8l0j1T7_PdX4NA/viewform?usp=sf_link)!
+Tekko, Pittsburgh's annual anime convention, is coming pretty soon!  Make sure you're signed up by this Thursday, February 27, 2019!  You can sign up at by following the link [here](https://docs.google.com/forms/d/e/1FAIpQLSfqyNw8RlghYUE4rZ8syBBTlzDsaLfYuWEN8l0j1T7_PdX4NA/viewform?usp=sf_link)!
 
 We're also hoping to be able to have a big Avengers Endgame trip at the end of the year, sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdEsLGnhSADnhPLHrjv-IUlKvRHaYfc3yo1J4vXLZNeVBxwPg/viewform?usp=sf_link) if you'd be interested in attending a free movie trip with us!
 
