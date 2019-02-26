@@ -8,12 +8,17 @@ categories:
 
 ## Officer Announcements
 
-*Mike:*  Apparently, they're playing Ghost Rider in the hallway.
-*Jordan:*  micsCo ubCl
-*Star:*  Jordan tried to give me piss.
-*Thaddeus:*  I, too, saw this.
-*Linh:*  What does King Crimson do?
-*feck:*  feck
+**Mike:**  Apparently, they're playing Ghost Rider in the hallway.
+
+**Jordan:**  micsCo ubCl
+
+**Star:**  Jordan tried to give me piss.
+
+**Thaddeus:**  I, too, saw this.
+
+**Linh:**  What does King Crimson do?
+
+**feck:**  feck
 
 ## Important Notices
 
