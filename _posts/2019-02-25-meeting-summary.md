@@ -6,7 +6,7 @@ categories:
 - Art
 ---
 
-# Officer Announcements
+## Officer Announcements
 
 *Mike:*  Apparently, they're playing Ghost Rider in the hallway.
 *Jordan:*  micsCo ubCl
@@ -15,7 +15,7 @@ categories:
 *Linh:*  What does King Crimson do?
 *feck:*  feck
 
-# Important Notices
+## Important Notices
 
 CCC this week will be a live read of Deadpool:  Dead Presidents!  It will definitely be a fun time, so come on out to Quigley Auditorium this Saturday!
 
@@ -27,6 +27,6 @@ We're also hoping to be able to have a big Avengers Endgame trip at the end of t
 
 There's only a couple more days to sign up for an official Comics Club t-shirt as designed by Linh!  If you'd like one, please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScsyjQMHGcE-tF-zzCtWA_D7HcMHNv7uTaMTqY3Uwh6uQki8g/viewform?usp=sf_link) before March 1st!  You're also able to help pick the shirt color we'll be going for, so definitely get in on that if you haven't already.
 
-# Meeting Summary
+## Meeting Summary
 
 In this week's meeting, we created icons for ourselves, and little messages for a members-focused page in the Greenstripe.  If you weren't at the meeting, but would like to add your own icon/blurb, draw something up, be it digitally or traditionally, and add a little bio for yourself.  Then just send it in to Jordan at <[durcij](mailto:durcij@allegheny.edu)>!
