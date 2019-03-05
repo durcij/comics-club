@@ -3,7 +3,7 @@ layout: post
 title: Meeting Summary (March 4, 2019)
 categories:
 - General
-- Art
+- Clerical
 ---
 
 ## Officer Announcements
