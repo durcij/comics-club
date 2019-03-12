@@ -39,3 +39,7 @@ There's only a couple more days to sign up for an official Comics Club t-shirt a
 ## Meeting Summary
 
 In this week's meeting, we finished up our art and bios!  We also made some last minute submissions for the Greenstripe.  Remember, send <[durcij](mailto:durcij@allegheny.edu)> your submissions as soon as possible, if you haven't already!
+
+## Recommendations
+
+* JoJo's Bizarre Adventure (Show now on Netflix)
