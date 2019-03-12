@@ -47,3 +47,9 @@ There's only a couple more days to sign up for an official Comics Club t-shirt a
 ## Meeting Summary
 
 In this week's meeting, we did new nominations for the next two weeks of CCC!
+
+## Recommendations
+
+* Doom Patrol (Show on DC Universe)
+* Umbrella Academy (Show on Netflix)
+* Pokemon Adventure (Manga)
