@@ -42,7 +42,7 @@ Tekko, Pittsburgh's annual anime convention, is coming pretty soon!  Sign-ups ar
 
 We're also hoping to be able to have a big Avengers Endgame trip at the end of the year, sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdEsLGnhSADnhPLHrjv-IUlKvRHaYfc3yo1J4vXLZNeVBxwPg/viewform?usp=sf_link) if you'd be interested in attending a free movie trip with us!
 
-There's only a couple more days to sign up for an official Comics Club t-shirt as designed by Linh!  If you'd like one, please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScsyjQMHGcE-tF-zzCtWA_D7HcMHNv7uTaMTqY3Uwh6uQki8g/viewform?usp=sf_link) before March 1st!  You're also able to help pick the shirt color we'll be going for, so definitely get in on that if you haven't already.
+There's only a couple more days to sign up for an official Comics Club t-shirt as designed by Linh!  If you'd like one, please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScsyjQMHGcE-tF-zzCtWA_D7HcMHNv7uTaMTqY3Uwh6uQki8g/viewform?usp=sf_link) now!  You're also able to help pick the shirt color we'll be going for, so definitely get in on that if you haven't already.
 
 ## Meeting Summary
 
