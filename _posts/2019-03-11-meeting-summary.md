@@ -1,28 +1,22 @@
 ---
 layout: post
-title: Meeting Summary (March 4, 2019)
+title: Meeting Summary (March 11, 2019)
 categories:
 - General
-- Clerical
+- Art
 ---
 
 ## Officer Announcements
 
-**Mike:**
-> Be it as it may  
-> There remain  
-> Suitable tears still
+**Mike:**  Jordan failed to hold it in.
 
-**Jordan:**
-> Jordan be my name,  
-> Syllables:  
-> They are my true game.
+**Jordan:**  I'm sorry I used a `<p>`.
 
-**Star:**  Coming up with new ideas, get lit!
+**Star:**  ded
 
-**Thaddeus:**  I'm going to the art panel!
+**Thaddeus:**  I thought the meeting was at 4.  It's at 5.
 
-**Linh:**  What is Hestia Hentia?
+**Linh:**  50 ft. Garfield made me gag at lunch today.
 
 **feck:**  feck
 
@@ -30,13 +24,11 @@ categories:
 
 We're looking for suggestions in regards to live reads, and, potentially, all of CCC.  We've noticed low turnouts at the Quigley Auditorium events, so please fill out the Google Form we have [here](https://goo.gl/forms/Lik8WxJW1feJGKSF2) so that we can determine what days/locations would work better for all of our members.
 
-Also, the first meeting after spring break will be officer nomination day!  This means that we'll be doing nominations on March 25th and voting for the new officers at the next meeting on April 1st.
-
-Vote for this week in CCC [here](https://docs.google.com/forms/d/e/1FAIpQLScBFR4tDXBN8EbpLWRzyL5qZ9nD0CgzePFnv5rZDxBpxhz6DQ/viewform?usp=sf_link)!
+Our next meeting, the first meeting after spring break will be officer nomination day!  This means that we'll be doing nominations on March 25th and voting for the new officers at the next meeting on April 1st.
 
 Vote for the next live read [here](https://docs.google.com/forms/d/e/1FAIpQLSfnSj_F9jVq9mrbrcqXaGcOmn_DFzbQLzTVN4vvl2acF2qj-Q/viewform?usp=sf_link)!
 
-The final deadline for Green Stripe submission will be on March 11th, 2019, right around the start of Spring Break.  Make sure to finish up any submissions before then so that we can include them in the Greenstripe!
+The final deadline for Greenstripe submission was today, March 11th!  We will accept some late submissions, but please make sure to finish up any submissions as soon as possible so that we can include them in the Greenstripe!
 
 Tekko, Pittsburgh's annual anime convention, is coming pretty soon!  Sign-ups are closed now, but we look forward to seeing everyone who's signed up in Pittsburgh this April for Tekko!
 
@@ -46,10 +38,8 @@ There's only a couple more days to sign up for an official Comics Club t-shirt a
 
 ## Meeting Summary
 
-In this week's meeting, we did new nominations for the next two weeks of CCC!
+In this week's meeting, we finished up our art and bios!  We also made some last minute submissions for the Greenstripe.  Remember, send <[durcij](mailto:durcij@allegheny.edu)> your submissions as soon as possible, if you haven't already!
 
 ## Recommendations
 
-* Doom Patrol (Show on DC Universe)
-* Umbrella Academy (Show on Netflix)
-* Pokemon Adventure (Manga)
+* JoJo's Bizarre Adventure (Show now on Netflix)
