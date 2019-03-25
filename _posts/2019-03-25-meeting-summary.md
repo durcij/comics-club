@@ -24,7 +24,7 @@ categories:
 
 #### Officers for the next year in Comics Club have been nominated!
 
-#### President:
+##### President:
 * Jordan
 * Linh
 * Surinder
@@ -35,7 +35,7 @@ categories:
 * Gretchen
 * Will
 
-#### Vice President:
+##### Vice President:
 * Star
 * Will
 * Linh
@@ -46,7 +46,7 @@ categories:
 * Mike
 * Maya
 
-#### Treasurer:
+##### Treasurer:
 * Will
 * Mike
 * Star
@@ -55,14 +55,14 @@ categories:
 * Surinder
 * Oscar (Star's Dog)
 
-#### PR:
+##### PR:
 * Linh
 * Star
 * Gabby
 * Gwen
 * Gretchen
 
-#### Secretary:
+##### Secretary:
 * Gwen
 * Jacob
 * Mike
@@ -71,7 +71,7 @@ categories:
 * Louisa
 * Surinder
 
-#### feck:
+##### feck:
 * Jordan
 * Keith
 * Cory
