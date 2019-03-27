@@ -8,35 +8,35 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job isn't to be a
 
 ## President
 ![President](../images/officers/placeholder.png)  
-NAME  
-MAJOR  
-MINOR  
-BIO  
+**Name:** NAME  
+**Major:** MAJOR  
+**Minor:** MINOR  
+**Bio:** BIO  
 
 ## Vice President
 ![Vice President](../images/officers/placeholder.png)  
-NAME  
-MAJOR  
-MINOR  
-BIO  
+**Name:** NAME  
+**Major:** MAJOR  
+**Minor:** MINOR  
+**Bio:** BIO  
 
 ## Treasurer
 ![Treasurer](../images/officers/placeholder.png)  
-NAME  
-MAJOR  
-MINOR  
-BIO  
+**Name:** NAME  
+**Major:** MAJOR  
+**Minor:** MINOR  
+**Bio:** BIO  
 
 ## Public Relations
 ![Public Relations](../images/officers/placeholder.png)  
-NAME  
-MAJOR  
-MINOR  
-BIO  
+**Name:** NAME  
+**Major:** MAJOR  
+**Minor:** MINOR  
+**Bio:** BIO  
 
 ## Secretary
 ![Secretary](../images/officers/placeholder.png)  
-NAME  
-MAJOR  
-MINOR  
-BIO  
+**Name:** NAME  
+**Major:** MAJOR  
+**Minor:** MINOR  
+**Bio:** BIO  
