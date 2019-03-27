@@ -4,6 +4,8 @@ title: Officers
 permalink: officers.html
 ---
 
+Meet your 2019-2020 Comics Club officers board!  Remember, our job isn't to be above you, it's to serve you!  If you need help anything, please let an officer know, and we'll do what we can to make sure you're taken care of!
+
 ## President
 ![President](../images/officers/placeholder.png)  
 NAME  
