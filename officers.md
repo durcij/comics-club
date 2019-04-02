@@ -8,35 +8,35 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job isn't to be a
 
 ## President
 ![President](../images/officers/placeholder.png)  
-**Name:** NAME  
-**Major:** MAJOR  
-**Minor:** MINOR  
-**Bio:** BIO  
+**Name:** Jordan Durci  
+**Major:** Computer Science  
+**Minor:** Psychology and Philosophy  
+**Bio:** I live nearish to Pittsburgh, I'm a big fan of the MCU, and watch less anime than I'd like.  I also love video games, and have previously been a treasurer and vice president in the Legion of Allegheny Gamers (LAG).  I play a lot of Nintendo titles, and have a YouTube channel dedicated to a mixture of streams of nuzlockes and playing board games with friends.  
 
 ## Vice President
 ![Vice President](../images/officers/placeholder.png)  
-**Name:** NAME  
+**Name:** Linh Nguyen Mai  
 **Major:** MAJOR  
 **Minor:** MINOR  
 **Bio:** BIO  
 
 ## Treasurer
 ![Treasurer](../images/officers/placeholder.png)  
-**Name:** NAME  
+**Name:** Will Haden  
 **Major:** MAJOR  
 **Minor:** MINOR  
 **Bio:** BIO  
 
 ## Public Relations
 ![Public Relations](../images/officers/placeholder.png)  
-**Name:** NAME  
+**Name:** Gabby Sadej  
 **Major:** MAJOR  
 **Minor:** MINOR  
 **Bio:** BIO  
 
 ## Secretary
 ![Secretary](../images/officers/placeholder.png)  
-**Name:** NAME  
+**Name:** Gwen Snyder  
 **Major:** MAJOR  
 **Minor:** MINOR  
 **Bio:** BIO  
