@@ -16,9 +16,9 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job isn't to be a
 ## Vice President
 ![Vice President](../images/officers/placeholder.png)  
 **Name:** Linh Nguyen Mai  
-**Major:** MAJOR  
-**Minor:** MINOR  
-**Bio:** BIO  
+**Major:** Art and Technology  
+**Minor:** Computer Science  
+**Bio:** I'm Linh, and I make **[REDACTED]**.  
 
 ## Treasurer
 ![Treasurer](../images/officers/placeholder.png)  
@@ -37,6 +37,6 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job isn't to be a
 ## Secretary
 ![Secretary](../images/officers/placeholder.png)  
 **Name:** Gwen Snyder  
-**Major:** MAJOR  
-**Minor:** MINOR  
-**Bio:** BIO  
+**Major:** Communication Arts  
+**Minor:** Psychology  
+**Bio:** I'm Gwen.  
