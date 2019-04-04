@@ -21,21 +21,21 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job isn't to be a
 **Bio:** I'm Linh, and I make **[REDACTED]**.  
 
 ## Treasurer
-![Treasurer](../images/officers/placeholder.png)  
+![Treasurer](../images/officers/will.png)  
 **Name:** Will Haden  
 **Major:** Biology  
 **Minors:** Computer Science and Philosophy  
 **Bio:** What's up?  It's ya boi, Will Haden.  I like the video games (FPS and fighting games ftw), the hip hop, and the food.  My life is a sitcom with crazy stories included, and I love cookies and ice cream milkshakes.  
 
 ## Public Relations
-![Public Relations](../images/officers/placeholder.png)  
+![Public Relations](../images/officers/gabby.png)  
 **Name:** Gabby Sadej  
 **Major:** Biology  
 **Minor:** Women's, Gender, and Sexuality Studies  
 **Bio:** The name's Sadej, Gabby Sadej.  I like art and music (especially K-Pop).  I like having conversations, I'm in a sorority, and I really like pizza.  
 
 ## Secretary
-![Secretary](../images/officers/placeholder.png)  
+![Secretary](../images/officers/gwen.png)  
 **Name:** Gwen Snyder  
 **Major:** Communication Arts  
 **Minor:** Psychology  
