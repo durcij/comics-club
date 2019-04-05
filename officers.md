@@ -14,7 +14,7 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job isn't to be a
 **Bio:** It me, the mad lad, the human, the Jordan Durci.  I live nearish to Pittsburgh (but I grew up nearish to Erie just outside a town called Waterford), I'm a big fan of the MCU, and watch less anime than I'd like.  I also love video games, and have previously been a treasurer and vice president in the Legion of Allegheny Gamers (LAG).  I play a lot of Nintendo titles, and have a YouTube channel dedicated to a mixture of streams of nuzlockes and playing board games with friends.  
 
 ## Vice President
-![Vice President](../images/officers/placeholder.png)  
+![Vice President](../images/officers/linh.png)  
 **Name:** Linh Nguyen Mai  
 **Major:** Art and Technology  
 **Minor:** Computer Science  
