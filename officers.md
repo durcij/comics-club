@@ -18,7 +18,7 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **Name:** Linh Nguyen Mai  
 **Major:** Art and Technology  
 **Minor:** Computer Science  
-**Bio:** I'm Linh, and I make **[REDACTED]**.  
+**Bio:** I'm Linh, and I make art.  
 
 ## Treasurer
 ![Treasurer](../images/officers/will.png)  
