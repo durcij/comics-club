@@ -12,6 +12,7 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **Major:** Computer Science  
 **Minors:** Psychology and Philosophy  
 **Bio:** It me, the mad lad, the human, the Jordan Durci.  I live nearish to Pittsburgh (but I grew up nearish to Erie just outside a town called Waterford), I'm a big fan of the MCU, and watch less anime than I'd like.  I also love video games, and have previously been a treasurer and vice president in the Legion of Allegheny Gamers (LAG).  I play a lot of Nintendo titles, and have a YouTube channel dedicated to a mixture of streams of nuzlockes and playing board games with friends.  
+**Duties:** Running meetings, live reads, and charity events, maintaining the safe space, and running votes.  
 
 ## Vice President
 ![Vice President](../images/officers/linh.png)  
@@ -19,6 +20,7 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **Major:** Art and Technology  
 **Minor:** Computer Science  
 **Bio:** I'm Linh, and I make art.  
+**Duties:** Organizing the annual Greestripe and filling in for officers that aren't present.  
 
 ## Treasurer
 ![Treasurer](../images/officers/will.png)  
@@ -26,6 +28,7 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **Major:** Biology  
 **Minors:** Computer Science and Philosophy  
 **Bio:** What's up?  It's ya boi, Will Haden.  I like the video games (FPS and fighting games ftw), the hip hop, and the food.  My life is a sitcom with crazy stories included, and I love cookies and ice cream milkshakes.  
+**Duties:** Managing and utilizing the club's budget for events and communicating with ASG's treasury.  
 
 ## Public Relations
 ![Public Relations](../images/officers/gabby.png)  
@@ -33,6 +36,7 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **Major:** Biology  
 **Minor:** Women's, Gender, and Sexuality Studies  
 **Bio:** The name's Sadej, Gabby Sadej.  I like art and music (especially K-Pop).  I like having conversations, I'm in a sorority, and I really like pizza.  
+**Duties:** Advertising events and communicating with the campus community.  
 
 ## Secretary
 ![Secretary](../images/officers/gwen.png)  
@@ -40,3 +44,4 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **Major:** Communication Arts  
 **Minor:** Psychology  
 **Bio:** I'm Gwen.  
+**Duties:** Writing and distributing the minutes to members.  
