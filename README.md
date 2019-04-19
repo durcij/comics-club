@@ -1,6 +1,6 @@
 # Comics Club
 
-This is the official website for Allegheny College's Comics Club.  It contains a blog and an informational page.
+This is the official website for Allegheny College's Comics Club.  It contains a blog, an informational page, and a page about the officers of the club.
 
 
 # Starter kit for [Garth](https://garth.darn.es/)
