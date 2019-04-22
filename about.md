@@ -14,4 +14,4 @@ If you'd like to suggest an event, or give us some feedback, feel free to email 
 
 Join our Facebook Group:   [![](../images/misc/fb.png)](https://www.facebook.com/groups/359659447419354/)
 
-Join the Allegheny Geek Life Discord Server:   [![](../images/misc/discord.png)](https://www.facebook.com/groups/359659447419354/)
+Join the Allegheny Geek Life Discord Server:   [![](../images/misc/discord.png)](https://discord.gg/Y8hpXNW)
