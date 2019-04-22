@@ -15,16 +15,21 @@ nav, strong{
   font-weight: 500;
 }
 
-.typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6 {
+.typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6{
   color: #0d0d0d;
   font-family: "Bangers", serif;
   font-style: normal;
   font-weight: 700;
 }
 
-.typeset small, .typeset .caption {
+.typeset small, .typeset .caption{
   font-size: 1.0666666667rem;
   font-family: "Sriracha", sans-serif;
   font-style: normal;
   font-weight: 400;
+}
+
+article{
+  border-style: dashed;
+  border-width: 5pt 5pt 5pt 5pt;
 }
