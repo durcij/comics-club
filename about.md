@@ -14,4 +14,4 @@ If you'd like to suggest an event, or give us some feedback, feel free to email 
 
 We also have a [Facebook Group](https://www.facebook.com/groups/359659447419354/) and a [Discord Server](https://discord.gg/Y8hpXNW) that you should feel free to join!
 
-![https://www.facebook.com/groups/359659447419354/](../images/misc/fb.png) ![https://discord.gg/Y8hpXNW](../images/misc/discord.png)
+[![](../images/misc/fb.png)](https://www.facebook.com/groups/359659447419354/) [![](../images/misc/discord.png)](https://www.facebook.com/groups/359659447419354/)
