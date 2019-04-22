@@ -19,8 +19,12 @@ nav, strong{
   color: #0d0d0d;
   font-family: "Bangers", serif;
   font-style: normal;
-  font-weight: 700; }
+  font-weight: 700;
+}
 
-  .typeset small{
-    font-weight: 'Sriracha', sans-serif;
-  }
+.typeset small, .typeset .caption {
+  font-size: 1.0666666667rem;
+  font-family: "Sriracha", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
