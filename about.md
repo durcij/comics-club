@@ -12,6 +12,6 @@ To get on the email list, you can email our secretary at <[snyderg](mailto:snyde
 
 If you'd like to suggest an event, or give us some feedback, feel free to email our president at <[durcij](mailto:durcij@allegheny.edu)> or our vice president at <[nguyenmail](mailto:nguyenmail@allegheny.edu)>.
 
-Join our Facebook Group:   [![](../images/misc/fb.svg =45x)](https://www.facebook.com/groups/359659447419354/)
+Join our Facebook Group:   <a href="https://www.facebook.com/groups/359659447419354/"><img src="../images/misc/fb.svg" alt="Facebook Group" style="width:45px;"/></a>
 
-Join the Allegheny Geek Life Discord Server:   [![](../images/misc/discord.svg =45x)](https://discord.gg/Y8hpXNW)
+Join the Allegheny Geek Life Discord Server:   <a href="https://discord.gg/Y8hpXNW"><img src="../images/misc/discord.svg" alt="Discord Server" style="width:45px;"/></a>
