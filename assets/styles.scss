@@ -15,6 +15,8 @@ nav, strong{
   font-weight: 500;
 }
 
-h1, h2, h3, h4, h5, h6{
-  font-family: 'Bangers', sans-serif, !important;
-}
+.typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6 {
+  color: #0d0d0d;
+  font-family: "Bangers", serif;
+  font-style: normal;
+  font-weight: 700; }
