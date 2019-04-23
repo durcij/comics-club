@@ -9,7 +9,7 @@ categories:
 This week, we had some fun, and drew superhuman versions of people and characters.  It was a fun time!  Here's some photos from the drawing session:
 
 ### Shannon Gilmore's Board (from Today's Meeting):  
-![Shannon Gilmore's](../../../../../../images/blog/superhumans/shannon.jpg =500x)
+![Shannon Gilmore's](../../../../../../images/blog/superhumans/shannon.jpg)
 
 ### Gretchen Dancewicz Helmers's Bob Ross:  
 ![Gretchen Dancewicz Helmers's](../../../../../../images/blog/superhumans/gretchen.jpg =500x)
