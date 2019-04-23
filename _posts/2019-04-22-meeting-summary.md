@@ -22,7 +22,7 @@ This week, we had some fun, and drew superhuman versions of people and character
 
 ## Officer Announcements
 
-**Jordan:**  So Josh Brolin posted this on Instagram with an unfortunate hashtag:  [click here for the image](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.15752-9/58382923_422142851937691_3694842364817309696_n.png?_nc_cat=110&_nc_ht=scontent.fagc2-1.fna&oh=e060346bcfdc92da306fb0723fabaa78&oe=5D72637D).
+**Jordan:**  So Josh Brolin posted this on Instagram with an unfortunate hashtag:  [click here for the image](https://www.instagram.com/p/Bwjjz01gs70/).
 
 **Linh:**  Joker was fun.
 
