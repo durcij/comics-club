@@ -12,13 +12,13 @@ This week, we had some fun, and drew superhuman versions of people and character
 ![Shannon Gilmore's](../../../../../../images/blog/superhumans/shannon.jpg)
 
 ### Gretchen Dancewicz Helmers's Bob Ross:  
-![Gretchen Dancewicz Helmers's](../../../../../../images/blog/superhumans/gretchen.jpg =500x)
+![Gretchen Dancewicz Helmers's](../../../../../../images/blog/superhumans/gretchen.jpg)
 
 ### Linh Nguyen Mai's Kamen Rider Design:  
-![Linh Nguyen Mai's](../../../../../../images/blog/superhumans/linh.jpg =500x)
+![Linh Nguyen Mai's](../../../../../../images/blog/superhumans/linh.jpg)
 
 ### Jordan Durci's Small-Mike and Sweet Potato:  
-![Jordan Durci's](../../../../../../images/blog/superhumans/jordan.jpg =500x)
+![Jordan Durci's](../../../../../../images/blog/superhumans/jordan.jpg)
 
 ## Officer Announcements
 
