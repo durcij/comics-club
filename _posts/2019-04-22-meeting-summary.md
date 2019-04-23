@@ -9,16 +9,16 @@ categories:
 This week, we had some fun, and drew superhuman versions of people and characters.  It was a fun time!  Here's some photos from the drawing session:
 
 ### Shannon Gilmore's Board (from Today's Meeting):  
-![Shannon Gilmore's](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.15752-9/57503735_169779840640021_1320687690307338240_n.jpg?_nc_cat=103&_nc_ht=scontent.fagc2-1.fna&oh=0eebd88e636ef61c7db45e6e55cbfb26&oe=5D3C69B5 =500x)
+![Shannon Gilmore's](../../../../../../images/blog/superhumans/shannon.jpg =500x)
 
 ### Gretchen Dancewicz Helmers's Bob Ross:  
-![Gretchen Dancewicz Helmers's](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.15752-9/58378700_425944398191371_4419765971741310976_n.jpg?_nc_cat=107&_nc_ht=scontent.fagc2-1.fna&oh=78de8ecff5438368d3a29721eec7f155&oe=5D2AF66C =500x)
+![Gretchen Dancewicz Helmers's](../../../../../../images/blog/superhumans/gretchen.jpg =500x)
 
 ### Linh Nguyen Mai's Kamen Rider Design:  
-![Linh Nguyen Mai's](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.15752-9/57624890_403729457112737_1534352001066860544_n.jpg?_nc_cat=102&_nc_ht=scontent.fagc2-1.fna&oh=89ae63a4e3a2efac28006556e859c94a&oe=5D34EF07 =500x)
+![Linh Nguyen Mai's](../../../../../../images/blog/superhumans/linh.jpg =500x)
 
 ### Jordan Durci's Small-Mike and Sweet Potato:  
-![Jordan Durci's](https://scontent.fagc2-1.fna.fbcdn.net/v/t1.15752-9/58441562_2283900295230855_4133069487324790784_n.jpg?_nc_cat=102&_nc_ht=scontent.fagc2-1.fna&oh=09b7615e8b97bf986e1c655b09fda69c&oe=5D700336 =500x)
+![Jordan Durci's](../../../../../../images/blog/superhumans/jordan.jpg =500x)
 
 ## Officer Announcements
 
