@@ -12,4 +12,5 @@ To get on the email list, you can email our secretary at <[snyderg](mailto:snyde
 
 If you'd like to suggest an event, or give us some feedback, feel free to email our president at <[durcij](mailto:durcij@allegheny.edu)> or our vice president at <[nguyenmail](mailto:nguyenmail@allegheny.edu)>.
 
-We also have a [Facebook Group](https://www.facebook.com/groups/359659447419354/) and a [Discord Server](https://discord.gg/Y8hpXNW) that you should feel free to join!
+<a href="https://www.facebook.com/groups/359659447419354/"><img src="../images/misc/fb.svg" alt="Facebook Group" width="45"/></a>
+<a href="https://discord.gg/Y8hpXNW"><img src="../images/misc/discord.svg" alt="Discord Server" width="45"/></a>

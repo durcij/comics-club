@@ -17,7 +17,7 @@ baseurl: ''
 title: 'Comics Club'
 description: 'The Official Comics Club Web Page'
 permalink: pretty
-logo: "https://raw.githubusercontent.com/durcij/comics-club/master/images/logo.png"
+logo: "/assets/logo.png"
 
 # Pagination
 paginate: 5
