@@ -20,7 +20,7 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **Major:** Art and Technology  
 **Minor:** Computer Science  
 **Bio:** I'm Linh, and I make art.  I have an unhealthy obsession with Speedwagon from JoJo's Bizarre Adventure.  I call him Speedwagon because that's all Speedwagon needs.  There's only one Speedwagon.  I wish he was real.  The world's unfair.  I just want my Speedwagon.  
-**Duties:** Organizing the annual Greestripe and filling in for officers that aren't present.  
+**Duties:** Organizing the annual Green Stripe and filling in for officers that aren't present.  
 
 ## Treasurer
 ![Treasurer](../images/officers/will.png)  
