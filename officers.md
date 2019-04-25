@@ -19,7 +19,7 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **Name:** Linh Nguyen Mai  
 **Major:** Art and Technology  
 **Minor:** Computer Science  
-**Bio:** I'm Linh, and I make art.  
+**Bio:** I'm Linh, and I make art.  I have an unhealthy obsession with Speedwagon from JoJo's Bizarre Adventure.  I call him Speedwagon because that's all Speedwagon needs.  There's only one Speedwagon.  I wish he was real.  The world's unfair.  I just want my Speedwagon.  
 **Duties:** Organizing the annual Greestripe and filling in for officers that aren't present.  
 
 ## Treasurer
@@ -43,7 +43,7 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **Name:** Gwen Snyder  
 **Major:** Communication Arts  
 **Minor:** Psychology  
-**Bio:** I'm Gwen.  
+**Bio:** I'm Gwen.  My interests are art (drawing and painting), binging YouTube videos, crocheting, my cat, the occasional video game, and analyzing everything about everything.  
 **Duties:** Writing and distributing the minutes to members.  
 
 ## Freelance Expert Council of Knowledge (feck)
