@@ -49,4 +49,4 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 ## Freelance Expert Council of Knowledge (feck)
 ![feck](../images/officers/feck.png)  
 **Members (from Left to Right):** Shannon Gilmore, Mike Eltman, and Star Harrison  
-**What it is:** The feck is an elected group of previous officers of Comics Club and the other Geek Life clubs at the college, and an officially unofficial position within Comics Club.  While their only real function is to be in the officer chat for adviserial help, they are all cool people that we love dearly, and if you see them, please feel free to say, "Hi!"
+**What it is:** The feck is an elected group of experienced officers of Comics Club and the other Geek Life clubs at Allegheny College, and an officially unofficial position within Comics Club.  While their only real function is to be in the officer chat for adviserial help, they are all cool people that we love dearly, and if you see them, please feel free to say, "Hi!"
