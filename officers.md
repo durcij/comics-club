@@ -46,12 +46,12 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **Bio:** I'm Gwen.  My interests are art (drawing and painting), binging YouTube videos, crocheting, my cat, the occasional video game, and analyzing everything about everything.  
 **Duties:** Writing and distributing the minutes to members.  
 
-## Freelance Expert Council of Knowledge (feck)
+### Freelance Expert Council of Knowledge (feck)
 ![feck](../images/officers/feck.png)  
 **Members (from Left to Right):** Shannon Gilmore, Mike Eltman, and Star Harrison  
 **What it is:** The feck is an elected group of experienced officers of Comics Club and the other Geek Life clubs at Allegheny College, and an officially unofficial position within Comics Club.  While their only real function is to be in the officer chat for adviserial help, they are all cool people that we love dearly, and if you see them, please feel free to say, "Hi!"
 
-## Faculty Advisor
+### Faculty Advisor
 ![Professor Callen](../images/officers/profcallen.png)  
 **Name:** Zachary Callen  
 **Department:** Political Science
