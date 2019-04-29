@@ -52,6 +52,6 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 **What it is:** The feck is an elected group of experienced officers of Comics Club and the other Geek Life clubs at Allegheny College, and an officially unofficial position within Comics Club.  While their only real function is to be in the officer chat for adviserial help, they are all cool people that we love dearly, and if you see them, please feel free to say, "Hi!"
 
 ## Faculty Advisor
-![Professor Callen](../images/officers/profcallen.png)
-**Name:** Zachary Callen
+![Professor Callen](../images/officers/profcallen.png)  
+**Name:** Zachary Callen  
 **Department:** Political Science
