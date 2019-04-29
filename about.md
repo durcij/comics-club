@@ -12,9 +12,5 @@ To get on the email list, you can email our secretary at <[snyderg](mailto:snyde
 
 If you'd like to suggest an event, or give us some feedback, feel free to email our president at <[durcij](mailto:durcij@allegheny.edu)> or our vice president at <[nguyenmail](mailto:nguyenmail@allegheny.edu)>.
 
-Our wonderful faculty advisor is Professor Zachary Callen, from the political science department.
-
-![Professor Callen](../images/officers/profcallen.png)
-
 <center><a href="https://www.facebook.com/groups/359659447419354/"><img src="../images/misc/fb.svg" alt="Facebook Group" width="45"/></a>
 <a href="https://discord.gg/Y8hpXNW"><img src="../images/misc/discord.svg" alt="Discord Server" width="45"/></a></center>
