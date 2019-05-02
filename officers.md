@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Officers
+title: Officers and More
 permalink: officers.html
 ---
 
