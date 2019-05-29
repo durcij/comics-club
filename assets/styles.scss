@@ -20,9 +20,11 @@ nav, strong{
 }
 
 .item--post{
-  outline-style: solid;
-  outline-width: medium;
-  outline-offset: .25em;
+  border-style: solid;
+  border-radius: .1em;
+  border: 5pt 5pt 5pt 5pt;
+  padding: .25em .25em .25em .25em;
+
 }
 
 .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6{
