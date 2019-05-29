@@ -16,7 +16,7 @@ nav, strong{
 }
 
 .header{
-  background-image: linear-gradient(white, $backgroundColour, $headerColour, $headerColour);
+  background-image: linear-gradient($backgroundColour, $headerColour, $headerColour);
   box-shadow: 0 0.15em 0.25em $linkColour;
 }
 
