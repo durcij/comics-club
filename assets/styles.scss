@@ -15,6 +15,22 @@ nav, strong{
   font-weight: 500;
 }
 
+.header{
+  background-image: linear-gradient($backgroundColour, $headerColour, $headerColour);
+  box-shadow: 0 0.15em 0.25em $linkColour;
+}
+
+.item--post{
+  border-color: $bodyColour;
+  border-style: solid;
+  border-width: 5pt 5pt 5pt 5pt;
+  border-radius: .15em;
+  padding: .25em .25em .25em .25em;
+  margin-bottom: .5em;
+  background-color: $postColour;
+
+}
+
 .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6{
   color: #0d0d0d;
   font-family: "Bangers", serif;
