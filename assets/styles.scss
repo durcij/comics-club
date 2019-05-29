@@ -17,7 +17,7 @@ nav, strong{
 
 .header{
   background-color: $headerColour;
-  box-shadow: 0 .25em .1em grey;
+  box-shadow: 0 0.15em 0.25em $linkColour;
 }
 
 .item--post{
