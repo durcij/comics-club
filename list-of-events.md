@@ -16,12 +16,6 @@ The following are all of Comics Club's upcoming events!
 **Location:** LOCATION  
 **Description:** DESCRIPTION  -->
 
-## First CCC
-**Date:** August 31, 2019  
-**Time:** 2:00 PM to 5:00 PM  
-**Location:** CC 303  
-**Description:** We'll be holding our first CCC nice and early this year!  It'll be a media discussion of Garfield 1 and 2!  Just a second...  *Hello?  I'm kind of writing the event update for the first CCC right now.  We're not doing that without an actual vote?  Oh...  Change it?  But it...  Ugh, fine.  I guess we'll do something else.*  We'll be discussing something else, \*squints\* "Something big."  What does that even mean?  
-
 ## First Comics Club General Meeting
 **Date:** September 2, 2019  
 **Time:** 5:00 PM to 6:00 PM  
