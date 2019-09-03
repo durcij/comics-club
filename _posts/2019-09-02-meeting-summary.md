@@ -6,7 +6,7 @@ categories:
 - Art
 ---
 
-This week, we started off with some fun, and made some Exquisite Cadaver comics.  There were some interesting ones to say the least.  Our now distant feck member, Star, called in from her home in Newark to say, "Hi!"
+This week, we started off with some fun, and made some Exquisite Cadaver comics.  There were some interesting ones to say the least.  Our now distant feck member, Star, called in from her home in New Jersey to say, "Hi!"
 
 ## Officer Announcements
 
