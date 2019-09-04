@@ -36,7 +36,7 @@ nav, strong{
 
 }
 
-.item--nav{
+.item--nav, .logo{
   text-shadow: 0.05em 0.05em 0.1em darken($headerColour, 25%), -0.05em -0.05em 0.1em lighten($headerColour, 25%);
 
 }
