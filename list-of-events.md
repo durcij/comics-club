@@ -16,12 +16,6 @@ The following are all of Comics Club's upcoming events!
 **Location:** LOCATION  
 **Description:** DESCRIPTION  -->
 
-## First Comics Club General Meeting
-**Date:** September 2, 2019  
-**Time:** 5:00 PM to 6:00 PM  
-**Location:** CC 206  
-**Description:** We'll be holding our first general meeting, where we'll have easy access to our 2018-2019 Green Stripe, our club's self-published comic and art magazine.  We'll also be doing a fun art/writing activity that will both help break the ice for all of our new additions, as well as be a fun time for all of our returning members.  Don't worry if you aren't a great artist, most of us aren't either.  
-
 ## Creepy Comics Club
 **Date:** October 26, 2019  
 **Time:** 2:00 PM to 5:00 PM  
