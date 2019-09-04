@@ -37,8 +37,7 @@ nav, strong{
 }
 
 .item--nav{
-  text-shadow: 0.05em 0.05em 0.1em $backgroundColour;
-  text-shadow: -0.05em -0.05em 0.1em $headerColour;
+  text-shadow: 0.05em 0.05em 0.1em $backgroundColour, -0.05em -0.05em 0.1em $headerColour;
 
 }
 
