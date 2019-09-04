@@ -8,7 +8,7 @@ title: false
 
 body{
   font-family: 'Sriracha', sans-serif;
-  padding-top: 1.5em;
+  padding-top: 3em;
 }
 
 nav, strong{
@@ -20,7 +20,6 @@ nav, strong{
   background-image: linear-gradient($backgroundColour, $headerColour, $headerColour);
   box-shadow: 0 0.15em 0.25em $linkColour;
   position: fixed;
-  top: 0;
   width: 100%;
 
 }
