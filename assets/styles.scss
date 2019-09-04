@@ -36,6 +36,16 @@ nav, strong{
 
 }
 
+.item--nav{
+  text-shadow: 0.05em 0.05em 0.1em darken($headerColour, 25%), -0.05em -0.05em 0.1em lighten($headerColour, 25%);
+
+}
+
+.logo{
+  box-shadow: 0.05em 0.05em 0.1em darken($headerColour, 25%), -0.05em -0.05em 0.1em lighten($headerColour, 25%);
+
+}
+
 .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6{
   color: #0d0d0d;
   font-family: "Bangers", serif;
