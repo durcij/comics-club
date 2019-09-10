@@ -30,7 +30,7 @@ Vote for the next live read [here](https://docs.google.com/forms/d/e/1FAIpQLSddM
 
 Sign up for t-shirts nice and early [here](https://docs.google.com/forms/d/e/1FAIpQLScV7z0UpsXuaAsZiq4vp2tpfcicbPbnC_3hbV_u2dTerl1bZQ/viewform) to save Will from ASG's wrath!  The previous year of Comics Club's, LAG's, and ARGO's shirts is pictured below!
 
-![T-Shirts](../../../../../images/blog/oldshirts.jpg)
+![T-Shirts](../../../../../../images/blog/oldshirts.jpg)
 
 ## Member Announcements
 
