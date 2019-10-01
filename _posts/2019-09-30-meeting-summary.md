@@ -16,11 +16,11 @@ This week, we took the characters we created last art day, and wrote stories and
 
 **Will:**  
 > Don't you know that your imperfections are a wonderful blessing.
-~Kendrick Lamar
+>~Kendrick Lamar
 
 **Gabby:**  
 > I want to be reincarnated as a rock.
-~Suga (BTS)
+>~Suga (BTS)
 
 **Gwen:**  I'm opening up a formal challenge; open the salsa.  The reward: salsa...ope...Jordan just did it.  Thanks!
 

@@ -18,7 +18,7 @@ This week, we did our usual clerical business, such as nominating things to *dis
 
 **Gabby:**  
 > These faults and mistakes are what I am, making up the brightest stars in the constellation of my life.
-~Kim Nam-joon
+>~Kim Nam-joon
 
 **Gwen:**  Shit don' hit the fan.  Also, a salamander is a wet kind of lizard.
 
