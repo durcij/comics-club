@@ -1,32 +1,32 @@
 ---
 layout: post
-title: Meeting Summary (September 23, 2019)
+title: Meeting Summary (September 30, 2019)
 categories:
 - General
-- Clerical
+- Art
 ---
 
-This week, we did our usual clerical business, such as nominating things to *discuss* and read for CCC.
+This week, we took the characters we created last art day, and wrote stories and story premises featuring them.  Anyone who makes a comic or art piece of one of the stories gets their submission immediately into the Green Stripe this year (as long as it's approved by the board).
 
 ## Officer Announcements
 
-**Jordan:**  I witnessed a man be broken last night by two videos for an art class.  He's quite destroyed.  Mentally.
+**Jordan:**  My life went from yeet to yoof almost as fast as Speedwagon narrates Part 1 of JoJo.
 
-**Linh:**  Think twice before clicking anything in an article your professor gives you, despite it being for class.
+**Linh:**  Lift your hips in the air, and shake em' like you just don't care.
 
-**Will:**  According to my mom, I change personalities when I sleep walk.
+**Will:**  
+> Don't you know that your imperfections are a wonderful blessing.  
+>~Kendrick Lamar
 
 **Gabby:**  
-> These faults and mistakes are what I am, making up the brightest stars in the constellation of my life.  
->~Kim Nam-joon
+> I want to be reincarnated as a rock.  
+>~Suga (BTS)
 
-**Gwen:**  Shit don' hit the fan.  Also, a salamander is a wet kind of lizard.
+**Gwen:**  I'm opening up a formal challenge; open the salsa.  The reward: salsa...ope...Jordan just did it.  Thanks!
 
-**feck:**  phEck
+**feck:**  I'm fecked.
 
 ## Important Notices
-
-Vote for the next *discussion* [here](https://docs.google.com/forms/d/e/1FAIpQLScPXHtPCZFLWAPgS33qSiU_hDEHQFVgUkp2yncsHiUDTH6Yaw/viewform?usp=sf_link)!
 
 Vote for the next live read [here](https://docs.google.com/forms/d/e/1FAIpQLSc1Mbnx2btrEWu0j_11AeGFVixuI1p0ugaL6p7QK9e5xbrwAA/viewform?usp=sf_link)!
 
@@ -48,7 +48,7 @@ Check out ARGO on Fridays 7:00-12:00 in CC 301/302 & 303 and General Meetings on
 
 Check out Student Art Society on Mondays at 4:30 in Doane Hall of Art 103.
 
-Check out Allegheny College E-Sports **TOMORROW** at 6:30 in Murray Hall's computer lab (Murray 117).
+Allegheny College E-Sports exists.  Contact Jake Walters at [alleghenycollegeesports@gmail.com](mailto:alleghenycollegeesports@gmail.com) to learn more.  The first Overwatch Team meeting is Wednesday at 7pm, with an orientation day of sorts tomorrow at 6:30 where someone will help people set their accounts up.  Please contact Jake before trying to attend, if you aren't already on the team.
 
 ### Miscellaneous
 
@@ -56,13 +56,11 @@ Mike, Jordan, etc. are making a Fakemon game themed around campus.  The link to 
 
 Check out Adventure Games on Saturdays 4:00-7:00 in CC 303.
 
-**THIS SATURDAY** is Wing Fest.
+**INKTOBER** starts tomorrow.  You don't have to do it in ink, just follow the prompt for each day and submit it to <[sadejg](mailto:sadej@allegheny.edu)> to get them on the [Instagram](https://www.instagram.com/accomicsclub/), and into the Green Stripe.
+
+October 17th is the **Candlelight Vigil**.
+
 
 ## Recommendations
 
-* Zane and Heath:  UNFILTERED (Podcast available on many services)
-* Weird Flex, But Okay (Podcast available on many services)
-* The Dark Crystal (TV show on Netflix and movie)
-* r/Animemes (The anime meme subreddit)
-* The Adventure Zone (Podcast available on many services)
-* A Conversation With (Podcast available on many services)
+* :P
