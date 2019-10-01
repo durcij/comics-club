@@ -48,7 +48,7 @@ Check out ARGO on Fridays 7:00-12:00 in CC 301/302 & 303 and General Meetings on
 
 Check out Student Art Society on Mondays at 4:30 in Doane Hall of Art 103.
 
-Allegheny College E-Sports exists.  Contact Jake Walters at [alleghenycollegeesports@gmail.com](mailto:alleghenycollegeesports@gmail.com) to learn more.  The first Overwatch Team meeting is Wednesday at 7pm, with an orientation day of sorts tomorrow at 6:30 where he'll help people set their accounts up.  Please contact him before trying to attend, if you aren't already on the team.
+Allegheny College E-Sports exists.  Contact Jake Walters at [alleghenycollegeesports@gmail.com](mailto:alleghenycollegeesports@gmail.com) to learn more.  The first Overwatch Team meeting is Wednesday at 7pm, with an orientation day of sorts tomorrow at 6:30 where someone will help people set their accounts up.  Please contact him before trying to attend, if you aren't already on the team.
 
 ### Miscellaneous
 
