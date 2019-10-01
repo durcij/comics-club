@@ -17,7 +17,7 @@ This week, we did our usual clerical business, such as nominating things to *dis
 **Will:**  According to my mom, I change personalities when I sleep walk.
 
 **Gabby:**  
-> These faults and mistakes are what I am, making up the brightest stars in the constellation of my life.
+> These faults and mistakes are what I am, making up the brightest stars in the constellation of my life.  
 >~Kim Nam-joon
 
 **Gwen:**  Shit don' hit the fan.  Also, a salamander is a wet kind of lizard.

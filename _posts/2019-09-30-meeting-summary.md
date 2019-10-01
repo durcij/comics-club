@@ -15,11 +15,11 @@ This week, we took the characters we created last art day, and wrote stories and
 **Linh:**  Lift your hips in the air, and shake em' like you just don't care.
 
 **Will:**  
-> Don't you know that your imperfections are a wonderful blessing.
+> Don't you know that your imperfections are a wonderful blessing.  
 >~Kendrick Lamar
 
 **Gabby:**  
-> I want to be reincarnated as a rock.
+> I want to be reincarnated as a rock.  
 >~Suga (BTS)
 
 **Gwen:**  I'm opening up a formal challenge; open the salsa.  The reward: salsa...ope...Jordan just did it.  Thanks!
