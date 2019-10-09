@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting Summary (September 23, 2019)
+title: Meeting Summary (October 7, 2019)
 categories:
 - General
 - Clerical
