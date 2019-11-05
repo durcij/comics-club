@@ -17,7 +17,7 @@ This week, we did some of our usual clerical business, nominating things to read
 **Will:**
 
 > I dunno about you, but me, I'm important, I'm gorgeous.  
->~Mack Miller
+>~Mac Miller
 
 **Gabby:**  Ah shit... hold on...
 
