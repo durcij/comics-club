@@ -63,7 +63,7 @@ The DiVA Competition will be in the CC Lobby tomorrow (November 5th) at 7:00 PM.
 
 ## Recommendations
 
-* Blood is Mine ([Webcomic](bloodismine.thecomicseries.com/comics/1))
+* Blood is Mine ([Webcomic](http://bloodismine.thecomicseries.com/comics/1))
 * Samurai Champloo (Anime on Funimation and Hulu)
 * Things You Should Know (Podcast)
 * Mythbusters (TV Show on the Hulu)
