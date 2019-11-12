@@ -21,7 +21,7 @@ This week, we did a bunch of possible t-shirt designs for, as the deadline our w
 **Gwen:**  
 
 1. It gets dark too quick.
-2. Who the f*** would put their d*** in the Gator's mouth?!
+2. Who the f\*\*\* would put their d\*\*\* in the Gator's mouth?!
 
 **feck:**  Feck everything.
 
