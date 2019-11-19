@@ -20,7 +20,7 @@ The following are all of Comics Club's upcoming events!
 **Date:** December 7, 2019  
 **Time:** 2:00 PM to 5:00 PM  
 **Location:** CC 303  
-**Description:** This will be the last live read of the semester!  We'll be doing something with a wintery, maybe even festive theme.
+**Description:** This will be the last *discussion* of the semester!  We'll be *discussing* something with a wintery, maybe even festive, theme.
 
 ## Comics Clubcicle General Meeting
 **Date:** December 9, 2019  
