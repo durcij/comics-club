@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting Summary (November 4, 2019)
+title: Meeting Summary (November 18, 2019)
 categories:
 - General
 - Clerical
