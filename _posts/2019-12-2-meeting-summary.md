@@ -6,7 +6,7 @@ categories:
 - Clerical
 ---
 
-This week, we did some of our usual clerical business, nominating things to read and *discuss* for the next two weekends.
+This week, we did some of our usual clerical business, and continued to have minor existential crises.
 
 ## Officer Announcements
 
