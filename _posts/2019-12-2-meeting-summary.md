@@ -44,7 +44,7 @@ Check out ARGO on Fridays 7:00-12:00 in CC 301/302 & 303 and General Meetings on
 
 Check out Student Art Society on Mondays at 4:30 in Doane Hall of Art 103.
 
-Check out Allegheny College E-Sports on Wednesdays at 8:00 in Murray Hall's computer lab (Murray 117).  The time may shift for future meetings, but as it stands, that's the time.
+Check out Allegheny College E-Sports on Wednesdays at 8:00 in Murray Hall's computer lab (Murray 117).
 
 ### Miscellaneous
 
