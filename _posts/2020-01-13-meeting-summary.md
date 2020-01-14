@@ -22,7 +22,7 @@ This week, we went over new and important changes to the structure of Comics Clu
 
 **feck:**  I'm shambling around campus today.  Got myself a feckin' job.
 
-![Mike the Shambling Feck](./images/blog/shamblingmike.jpg)
+![Mike the Shambling Feck](/images/blog/shamblingmike.jpg)
 
 ## Important Notices
 
@@ -60,4 +60,4 @@ Check out Adventure Games on Saturdays 4:00-7:00 in CC 303.
 
 ## Recommendations
 
-![Santa Eri-chan](./images/blog/erisanta.jpg)
+![Santa Eri-chan](/images/blog/erisanta.jpg)
