@@ -42,7 +42,7 @@ Check out LAG on Saturdays 7:30-12:00 in CC 301/302 & 303, PTC (Pass the Control
 
 Check out Dumbledore's Army on Mondays 6:00-7:00 in CC 303.
 
-Check out ARGO on Fridays 7:00-12:00 in CC 301/302 & 303 and General Meetings on Tuesdays 5:00-6:00 in CC 301/302.  There's a JoJo's Bizarre Adventure LARP starting soon.  Email <[eltmanm](mailto:eltmanm@allegheny.edu)> or <[nguyenmail](mailto:nguyenmail@allegheny.edu)>.
+Check out ARGO on Fridays 7:00-12:00 in CC 301/302 & 303 and General Meetings on Tuesdays 5:00-6:00 in CC 301/302.  There's a JoJo's Bizarre Adventure LARP starting soon.  Email <[eltmanm](mailto:eltmanm@allegheny.edu)> or <[nguyenmail](mailto:nguyenmail@allegheny.edu)> for more info.
 
 Check out Student Art Society on Mondays at 4:30 in Doane Hall of Art 103.
 
