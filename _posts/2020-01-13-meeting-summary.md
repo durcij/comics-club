@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting Summary (January 13, 2019)
+title: Meeting Summary (January 13, 2020)
 categories:
 - General
 - Clerical

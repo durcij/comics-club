@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting Summary (January 20, 2019)
+title: Meeting Summary (January 20, 2020)
 categories:
 - General
 - Art
