@@ -15,7 +15,7 @@ This week, we did a vote for the movie we'll watch for the upcoming movie trip.
 **Linh:**  ugh....need Green Stripe....ughhh....
 
 **Will:**
->The past hurts, but the way I see it, you can either run from it or learn from it.
+>The past hurts, but the way I see it, you can either run from it or learn from it.  
 >~Rafiki (The Lion King)
 
 **Gabby:**   N/A
