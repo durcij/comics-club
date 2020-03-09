@@ -16,14 +16,14 @@ The following are all of Comics Club's upcoming events!
 **Location:** LOCATION  
 **Description:** DESCRIPTION  -->
 
-## Chilly Comics Club
-**Date:** December 7, 2019  
-**Time:** 2:00 PM to 5:00 PM  
-**Location:** CC 303  
-**Description:** This will be the last *discussion* of the semester!  We'll be *discussing* something with a wintery, maybe even festive, theme.
+## Geek Expo 2020
+**Date:** TBD  
+**Time:** TBD  
+**Location:** TBD  
+**Description:** This event will be where we host Cookies and Comics!  It's being organized with the help of the Legion of Allegheny Gamers, the Allegheny Role-playing and Gaming Organization, Dumbledore's Army, and Allegheny College E-Sports!
 
-## Comics Clubcicle General Meeting
-**Date:** December 9, 2019  
-**Time:** 5:00 PM to 6:00 PM  
-**Location:** CC 206  
-**Description:** This will be the last general meeting of the semester!  We'll be doing some sort of creative game with a befittingly wintery twist!  
+## Movie Trip
+**Date:** TBD  
+**Time:** TBD  
+**Location:** The Movies at Meadville  
+**Description:** That's right, we're going to the movies!  What film are we seeing?  Well, we're actually trying to decide that.
