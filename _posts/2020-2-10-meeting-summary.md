@@ -22,7 +22,7 @@ This week, we ran our usual vote for discussion and live read.
 
 **feck:**  What the feck is this poll?
 
-![Random Poll](../../../../../../images/blog/randompoll.png)
+![Random Poll](/images/blog/randompoll.png)
 
 ## Important Notices
 
