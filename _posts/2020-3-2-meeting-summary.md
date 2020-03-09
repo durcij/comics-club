@@ -32,6 +32,8 @@ We'll be having a Green Stripe focused reading and drawing day on March 7th.  Th
 
 T-shirts have been designed!  If your information isn't in, it's too late to get one.
 
+**Send us comics for the Greenstripe!  They can be good, they can be bad, they can be silly, they can be sad.  Be it in crayon, marker, pencil, or pen, if it gets sent we'll put it in!  Send them my way at <[nguyenmail](mailto:nguyenmail@allegheny.edu)>.**
+
 ## Member Announcements
 
 ### Other Clubs
