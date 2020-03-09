@@ -6,21 +6,23 @@ categories:
 - Clerical
 ---
 
-This week, we did our votes for the next two weeks in CCC.
+This week, we did a vote for the movie we'll watch for the upcoming movie trip.
 
 ## Officer Announcements
 
-**Jordan:**  
+**Jordan:**  am do have study.  am do need human.  email me.
 
-**Linh:**  
+**Linh:**  ugh....need Green Stripe....ughhh....
 
-**Will:**  
+**Will:**
+>The past hurts, but the way I see it, you can either run from it or learn from it.
+>~Rafiki (The Lion King)
 
-**Gabby:**   
+**Gabby:**   N/A
 
-**Gwen:**   
+**Gwen:**   There's so much due before break no matter how much one keeps up on their work.
 
-**feck:**  
+**feck:**  *Not feckin' applicable*
 
 ## Important Notices
 
@@ -28,9 +30,7 @@ All votes will now be held in meetings, in a similar way to those run in LAG and
 
 Reading and drawing days are back!  There's one every four weeks during our CCC times on Saturdays.
 
-This week's () discussion will be .
-
-Next week's () live read will be .
+Our first big event of the semester will be a movie trip to [Bloodshot](https://youtu.be/vOUVVDWdXbo) at the Movies at Meadville on March 28th at (probably) 5pm.  People will need to be to the Loop by 4pm if they don't have a ride.  Here's the [form](https://forms.gle/YFmUYQjLb4wbAz9PA) to sign up.
 
 T-shirts have been designed!  If your information isn't in, it's too late to get one.
 
@@ -57,3 +57,6 @@ Check out Allegheny College E-Sports on Wednesdays at 8:00 in Murray Hall's comp
 Mike, Jordan, etc. are making a Fakemon game themed around campus.  The link to the main Google Sheet is [here](https://docs.google.com/spreadsheets/d/1mO_jn8xz4hN0sAEAv0LH6S_IHrX8TrWRkwoyjccBwHI/edit).  We need designers for characters, environments, etc., and you need not have artistic skill to do so.  Email <[eltmanm](mailto:eltmanm@allegheny.edu)> or <[durcij](mailto:durcij@allegheny.edu)> for more info.
 
 Check out Adventure Games on Saturdays 4:00-7:00 in CC 303.
+
+## Recommendations
+* Spring Break
