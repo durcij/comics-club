@@ -20,7 +20,7 @@ This week, we worked on drawings that were Green Stripe worthy.  It's hard to sa
 
 **Gwen:**  I will bring noms Saturday.  
 
-**feck:**  *"feck" in some hardy fecking crunching noises*
+**feck:**  \*"feck" in some hardy fecking crunching noises\*
 
 ## Important Notices
 
