@@ -1,28 +1,12 @@
 ---
 layout: post
-title: Meeting Summary (February 10, 2020)
+title: Meeting Summary (February 17, 2020)
 categories:
 - General
-- Clerical
+- Art
 ---
 
-This week, we ran our usual vote for discussion and live read.
-
-## Officer Announcements
-
-**Jordan:**  Lab was not very cash money.
-
-**Linh:**  I dreamed of getting shot in the ass with a Gatling gun.
-
-**Will:**  "One often meets destiny on the road he's trying to avoid."
-
-**Gabby:**   (insert the "Just Did a Bad Thing" TikTok)
-
-**Gwen:**  Homemade shortbread is addicting. Don't let it get you.
-
-**feck:**  What the feck is this poll?
-
-![Random Poll](./images/blog/randompoll.png)
+This week, we did a fun new art activity where we picked subjects from the board to draw, and then passed those around the room from person to person.
 
 ## Important Notices
 
@@ -30,9 +14,7 @@ All votes will now be held in meetings, in a similar way to those run in LAG and
 
 Reading and drawing days are back!  There's one every four weeks during our CCC times on Saturdays.
 
-This week's (February 15rd) *discussion* will be Violet Evergarden.
-
-Next week's (February 22st) read will be Garfield Minus Garfield.
+This week's (February 22st) read will be Garfield Minus Garfield.
 
 T-shirts have been designed!  Please submit your information [here](https://docs.google.com/forms/d/e/1FAIpQLScV7z0UpsXuaAsZiq4vp2tpfcicbPbnC_3hbV_u2dTerl1bZQ/viewform?usp=sf_link) if you'd like one.  They'll be free or a few bucks but no more than five.
 
