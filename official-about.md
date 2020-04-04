@@ -14,6 +14,6 @@ If you'd like to suggest an event, or give us some feedback, feel free to email 
 
 <center>
 <a href="https://www.facebook.com/groups/359659447419354/"><img src="../images/misc/fb.svg" alt="Facebook Group" width="45"/></a>
-<a href="https://discord.gg/Y8hpXNW"><img src="../images/misc/discord.svg" alt="Discord Server" width="45"/></a>
+<a href="https://discord.gg/JqfTQ7w"><img src="../images/misc/discord.svg" alt="Discord Server" width="45"/></a>
 <a href="https://www.instagram.com/accomicsclub/"><img src="../images/misc/insta.svg" alt="Instagram Page" width="45"/></a>
 </center>
