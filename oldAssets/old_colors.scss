@@ -2,13 +2,12 @@
 // Colours
 $bodyColour: #1a1a1a;
 $headingColour: darken($bodyColour, 5%);
-$linkColour: #ab1e1e;
+$linkColour: #173d73;
 $hoverColour: darken($linkColour, 10%);
 $captionColour: lighten($headingColour, 40%);
 $white: #fff;
-$blackish: rgba(0, 0, 0, .25);
 
-$backgroundColour: #f2d191;
+$backgroundColour: #e6de8a;
 $codeBackgroundColour: darken($backgroundColour, 5%);
-$headerColour: #cba151;
+$headerColour: #ccb129;
 $postColour: #e6da5c;
