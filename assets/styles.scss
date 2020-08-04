@@ -17,7 +17,7 @@ nav, strong{
 }
 
 .header{
-  background-image: linear-gradient($backgroundColour, $headerColour, $headerColour);
+  background-image: linear-gradient($backgroundColour, $headerColour, darken($headerColour, 5%));
   box-shadow: 0 0.15em 0.25em $linkColour;
   top: 0;
   position: fixed;
