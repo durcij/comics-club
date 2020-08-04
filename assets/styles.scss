@@ -37,7 +37,7 @@ nav, strong{
 }
 
 .item--current a{
-  color: darken($linkColour, 50%);
+  color: darken($linkColour, 25%);
   text-shadow: 0.05em 0.05em 0.1em lighten($headerColour, 25%), -0.05em -0.05em 0.1em darken($headerColour, 25%);
 
 }
