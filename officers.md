@@ -56,4 +56,4 @@ Meet your 2019-2020 Comics Club officers board!  Remember, our job is to serve y
 ## Faculty Advisor
 ![Professor Callen](../images/officers/profcallen.png)  
 **Name:** Zachary Callen  
-**Department:** Political Science
+**Department:** Political Science 
