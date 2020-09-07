@@ -10,7 +10,7 @@ This week, we went over the club's plans for the year, and nominated things to *
 
 ## Officer Announcements
 
-**Jordan:**  Welcome to what's going to be an interesting year for Comics Club and year overall.
+**Jordan:**  Welcome to what's going to be an interesting semester for Comics Club and year overall.
 
 **Linh:**  The internet has been really off and on in my room the past few days.
 
