@@ -32,11 +32,11 @@ Comics Club Complete is every weekend, alternating between *discussing* things a
 
 This week's CCC is Drawpile, in lieu of a reading and drawing week!  Go [here](https://drawpile.net/), download Drawpile, and make a free account.  It's basically collaborative MS Paint.
 
-Inktober is coming up soon!  
+Inktober is coming up soon!  We plan on making our own list for prompts.  The link to suggestions for what to draw is [here](https://forms.gle/djuMCymB5E2mjKWq5) (and all words already in the official Inktober prompt list won't be used as well as anything explicit).  Try to theme these suggestions around the college.
 
 Elections will be happening soon once we figure out how that can happen.
 
-T-shirts have been designed!  We'll be getting them, and hopefully masks, to everyone as soon as possible!  We plan on making our own list for prompts.  The link to suggestions for what to draw is [here](https://forms.gle/djuMCymB5E2mjKWq5) (and all words already in the official Inktober prompt list won't be used as well as anything explicit).  Try to theme these suggestions around the college.
+T-shirts have been designed!  We'll be getting them, and hopefully masks, to everyone as soon as possible!
 
 Send us comics for the Green Stripe!  They can be good, they can be bad, they can be silly, they can be sad.  Be it in crayon, marker, pencil, or pen, if it gets sent we'll put it in!  Send them my way at <[nguyenmail](mailto:nguyenmail@allegheny.edu)>.  More info on the Green Stripe will be coming soon, as well!
 
