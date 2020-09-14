@@ -15,11 +15,11 @@ This week, we started preparing for Inktober!  It's coming up fast!
 **Linh:**  I pulled my second all-nighter.  It was hell last night.
 
 **Will:**  
->All truths are identical... mathematicians know a lot of truths; metaphysicians know a lot of others.  These truths are identical.
+>All truths are identical... mathematicians know a lot of truths; metaphysicians know a lot of others.  These truths are identical.  
 >~Yablo
 
 **Gabby:**  
->Loving myself might be harder than loving someone else, let's admit it, the standards I made are more strict for myself.
+>Loving myself might be harder than loving someone else, let's admit it, the standards I made are more strict for myself.  
 >~Love Myself: Answer by BTS
 
 **Gwen:**  Got new hoodie.  Not often shop, doin' an excite.  Soft.  Poof hair fit in hood.  Stripe!  Good materials added plus.  Yes yes.
