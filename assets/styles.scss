@@ -72,6 +72,9 @@ nav, strong{
 }
 
 .typeset code, .typeset pre{
-  background-color: lighten($headerColour, 5%);
+  padding: .2em, .4em;
+  font-size: 85%;
+  background-color: lighten($headerColour, 10%);
   font-family:  "Special Elite", "Menlo", monospace;
+  border-radius: 6px;
 }
