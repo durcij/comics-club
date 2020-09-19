@@ -72,6 +72,6 @@ nav, strong{
 }
 
 .typeset code, .typeset pre{
-  background-color: $headerColour;
+  background-color: lighten($headerColour, 5%);
   font-family:  "Special Elite", "Menlo", monospace;
 }
