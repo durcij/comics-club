@@ -70,3 +70,8 @@ nav, strong{
   font-style: normal;
   font-weight: 400;
 }
+
+.typeset code, .typeset pre{
+  background-color: lighten($headerColour, 25%)
+  font-family:  "Special Elite", "Menlo", monospace;
+}
