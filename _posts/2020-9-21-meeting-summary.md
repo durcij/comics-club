@@ -18,7 +18,7 @@ This week, we nominated things to *discuss* for next week, things to live read f
 
 **Gabby:**  Social psychology makes me depressed.
 
-**Gwen:**  Tired.  Headache.  Comp.  \¯\\\_(ツ)\_\/\¯
+**Gwen:**  Tired.  Headache.  Comp.  **¯\\\_(ツ)\_/¯**
 
 **feck:**  *Not feckin' applicable*
 
