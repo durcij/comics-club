@@ -23,7 +23,7 @@ img{
 }
 
 .header{
-  background-image: linear-gradient($backgroundColour, $headerColour, darken($headerColour, 5%));
+  background-image: linear-gradient($backgroundColour, $headerColour, darken($headerColour, 10%));
   box-shadow: 0 0.15em 0.25em $linkColour;
   top: 0;
   position: fixed;
@@ -38,7 +38,7 @@ img{
   border-radius: .15em;
   padding: .25em .25em .25em .25em;
   margin-bottom: .5em;
-  background-color: $postColour;
+  background-image: linear-gradient(lighten($postColour, 10%), $postColour, darken($postColour, 20%));
 
 }
 
