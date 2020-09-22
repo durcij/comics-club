@@ -11,10 +11,6 @@ body{
   padding-top: 6em;
 }
 
-html{
-  background-image: linear-gradient(lighten($backgroundColour, 10%), $backgroundColour, darken($backgroundColour, 10%));
-}
-
 nav, strong{
   font-family: 'Bangers', sans-serif;
   font-weight: 500;
@@ -27,7 +23,7 @@ img{
 }
 
 .header{
-  background-image: linear-gradient($backgroundColour, $headerColour, darken($headerColour, 10%));
+  background-image: linear-gradient($backgroundColour, $headerColour, darken($headerColour, 5%));
   box-shadow: 0 0.15em 0.25em $linkColour;
   top: 0;
   position: fixed;
@@ -42,7 +38,7 @@ img{
   border-radius: .15em;
   padding: .25em .25em .25em .25em;
   margin-bottom: .5em;
-  background-image: linear-gradient(lighten($postColour, 10%), $postColour, darken($postColour, 20%));
+  background-color: $postColour;
 
 }
 
