@@ -39,7 +39,7 @@ img{
   padding: .25em .25em .25em .25em;
   margin-bottom: .5em;
   background-image: linear-gradient(lighten($postColour, 10%), $postColour, darken($postColour, 20%));
-  box-shadow:  0.15em 0.15em 0.25em opacify($bodyColour, 1);
+  box-shadow:  0.15em 0.15em 0.25em transparentize($bodyColour, .25);
 
 }
 
