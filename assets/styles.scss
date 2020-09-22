@@ -10,7 +10,7 @@ body{
   font-family: 'Sriracha', sans-serif;
   padding-top: 6em;
   background-image: linear-gradient(lighten($backgroundColour, 10%), $backgroundColour, darken($backgroundColour, 10%));
-  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 nav, strong{
