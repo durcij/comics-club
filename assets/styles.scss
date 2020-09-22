@@ -9,6 +9,7 @@ title: false
 body{
   font-family: 'Sriracha', sans-serif;
   padding-top: 6em;
+  background-image: linear-gradient(lighten($backgroundColour, 10%), $backgroundColour, darken($backgroundColour, 10%));
 }
 
 nav, strong{
