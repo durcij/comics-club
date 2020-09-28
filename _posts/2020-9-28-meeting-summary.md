@@ -58,8 +58,5 @@ Check out Allegheny College E-Sports whenever more information comes up.
 Mike, Jordan, etc. are making a Fakemon game themed around campus.  The link to the main Google Sheet is [here](https://docs.google.com/spreadsheets/d/19UsWhMEcoW0K28BC3llz5-oJXrWB53-zqBixHXlzCd4/edit?usp=sharing).  We need designers for characters, environments, etc., and you need not have artistic skill to do so.  Email <[eltmanm](mailto:eltmanm@allegheny.edu)> or <[durcij](mailto:durcij@allegheny.edu)> for more info.
 
 ## Recommendations
-* Things that make you not stressed
-* Digimon (the original)
-* Street Food:  Asia (Gwen's comping on it)
-* Worst Cooks in America
-* [Jordan's Comp](https://github.com/durcij/game-for-comp/blob/master/SeniorThesis.pdf)
+* Fullmetal Alchemist (Manga)
+* The Great British Baking Show (New Season)
