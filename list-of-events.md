@@ -20,4 +20,6 @@ The following are all of Comics Club's upcoming events!
 **Date:** October 1st through 31st, 2020  
 **Time:** Daily  
 **Location:** Anywhere  
-**Description:** We'll be giving out a list of words as prompts once they're settled, but in the end, there will be 31 total prompts, one for each day of October.  All you'll have to do is make some art of any kind (drawings, digital art, comics, poetry, etc.) for each prompt as the days roll by.  Don't worry about keeping up or falling behind, we won't judge.
+**Description:** There are 31 total prompts, one for each day of October.  All you have to do is make some art of any kind (drawings, digital art, comics, poetry, etc.) for each prompt as the days roll by.  Don't worry about keeping up or falling behind, we won't judge.  The official word list image is below:
+
+![Art-tober 2020 Word List](/images/blog/art-tober2020.png)
