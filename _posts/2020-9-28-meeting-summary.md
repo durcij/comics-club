@@ -1,28 +1,24 @@
 ---
 layout: post
-title: Meeting Summary (September 14, 2020)
+title: Meeting Summary (September 28, 2020)
 categories:
 - General
 - Art
 ---
 
-This week, we started preparing for Copyright Free Art-tober!  It's coming up fast!
+This week, we revealed the official Copyright Free Art-tober word list!  October's almost here, so take a look if you want to participate!
 
 ## Officer Announcements
 
-**Jordan:**  Hey all, Jord here.
+**Jordan:**  We have a lot of comics.
 
-**Linh:**  I pulled my second all-nighter.  It was hell last night.
+**Linh:**  "Linh, do you have an announcement?"  Not really.
 
-**Will:**  
->All truths are identical... mathematicians know a lot of truths; metaphysicians know a lot of others.  These truths are identical.  
->~Yablo
+**Will:**  You wanna know how comics got all this money?  Knowledge.
 
-**Gabby:**  
->Loving myself might be harder than loving someone else, let's admit it, the standards I made are more strict for myself.  
->~Love Myself: Answer by BTS
+**Gabby:**  \*At the gym.\*
 
-**Gwen:**  Got new hoodie.  Not often shop, doin' an excite.  Soft.  Poof hair fit in hood.  Stripe!  Good materials added plus.  Yes yes.
+**Gwen:**  I'd like less homework, plz.
 
 **feck:**  *Not feckin' applicable*
 
@@ -30,9 +26,10 @@ This week, we started preparing for Copyright Free Art-tober!  It's coming up fa
 
 Comics Club Complete is every weekend, alternating between *discussing* things and other events like Live Read and reading and drawing days.
 
-This week's CCC is Drawpile, in lieu of a reading and drawing week!  Go [here](https://drawpile.net/), download Drawpile, and make a free account.  It's basically collaborative MS Paint.
+To vote for the this week's live read click [here](https://docs.google.com/forms/d/e/1FAIpQLSeqffpnWgrgR-tSu-tYSQj13bZcK5eBaDOoz9ctrTZ3o8Z20A/viewform)!
 
-Copyright Free Art-tober is coming up soon!  We plan on making our own list for prompts.  The link to suggestions for what to draw is [here](https://forms.gle/djuMCymB5E2mjKWq5) (and all words already in the official Inktober prompt list won't be used as well as anything explicit).  Try to theme these suggestions around the college.
+Inktober is almost here!  The list is complete, check it out below:  
+![Art-tober 2020 Word List](/images/blog/art-tober2020.png)
 
 Elections will be happening soon once we figure out how that can happen.
 
@@ -61,8 +58,5 @@ Check out Allegheny College E-Sports whenever more information comes up.
 Mike, Jordan, etc. are making a Fakemon game themed around campus.  The link to the main Google Sheet is [here](https://docs.google.com/spreadsheets/d/19UsWhMEcoW0K28BC3llz5-oJXrWB53-zqBixHXlzCd4/edit?usp=sharing).  We need designers for characters, environments, etc., and you need not have artistic skill to do so.  Email <[eltmanm](mailto:eltmanm@allegheny.edu)> or <[durcij](mailto:durcij@allegheny.edu)> for more info.
 
 ## Recommendations
-* Things that make you not stressed
-* Digimon (the original)
-* Street Food:  Asia (Gwen's comping on it)
-* Worst Cooks in America
-* [Jordan's Comp](https://github.com/durcij/game-for-comp/blob/master/SeniorThesis.pdf)
+* Fullmetal Alchemist (Manga)
+* The Great British Baking Show (New Season)
