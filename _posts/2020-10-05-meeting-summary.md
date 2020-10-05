@@ -63,7 +63,7 @@ Check out Allegheny College E-Sports whenever more information comes up.
 Mike, Jordan, etc. are making a Fakemon game themed around campus.  The link to the main Google Sheet is [here](https://docs.google.com/spreadsheets/d/19UsWhMEcoW0K28BC3llz5-oJXrWB53-zqBixHXlzCd4/edit?usp=sharing).  We need designers for characters, environments, etc., and you need not have artistic skill to do so.  Email <[eltmanm](mailto:eltmanm@allegheny.edu)> or <[durcij](mailto:durcij@allegheny.edu)> for more info.
 
 ## Recommendations
-* https://www.spaghettiinajar.com/ (If you give them money, they will put more pasta in a jar.)
+* [Spaghetti in a Jar](https://www.spaghettiinajar.com/) (If you give them money, they will put more pasta in a jar.)
 * Pulled pork
 * Brooks's ice cream selection
 * Regular Show
