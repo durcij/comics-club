@@ -11,15 +11,20 @@ body{
   padding-top: 6em;
 }
 
-nav, strong{
-  font-family: 'Bangers', sans-serif;
-  font-weight: 500;
+iframe{
+  width: 100%;
+  height: 100%;
 }
 
 img{
   border-style: solid;
   border-width: 5pt 5pt 5pt 5pt;
   border-radius: .15em;
+}
+
+nav, strong{
+  font-family: 'Bangers', sans-serif;
+  font-weight: 500;
 }
 
 .header{
@@ -57,11 +62,6 @@ img{
 .logo{
   box-shadow: 0.05em 0.05em 0.1em darken($headerColour, 25%), -0.05em -0.05em 0.1em lighten($headerColour, 25%);
 
-}
-
-.docs-gm{
-  width: 100%;
-  height: 100%;
 }
 
 .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6{
