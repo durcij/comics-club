@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Upcoming Events
+title: Coming Events
 permalink: events.html
 ---
 
