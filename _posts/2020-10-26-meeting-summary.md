@@ -35,9 +35,9 @@ Elections will be happening in **one week**.  Please plan to attend physically o
 President | Vice President | Treasurer | Secretary | PR | feck
 --------------------------------------------------------------
 Will Haden | Linh Nguyen Mai | Will Haden | Aditya Bhandari | Surinder Ahluwalia | Jordan Durci
-   | Chaz Montgomery | Chaz Montgomery | Will Haden | Chaz Montgomery | Gwen Snyder
-   | Surinder Ahluwalia |   | Chaz Montgomery |   | Linh Nguyen Mai
-   |   |   | Linh Nguyen Mai |   | Mike Eltman
+N/A | Chaz Montgomery | Chaz Montgomery | Will Haden | Chaz Montgomery | Gwen Snyder
+N/A | Surinder Ahluwalia | N/A | Chaz Montgomery | N/A | Linh Nguyen Mai
+N/A | N/A | N/A | Linh Nguyen Mai | N/A | Mike Eltman
 
 Will Haden
 
