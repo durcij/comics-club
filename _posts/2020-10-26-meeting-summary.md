@@ -33,7 +33,7 @@ Copyright Free Art-tober is here!  You can send your submissions however you lik
 Elections will be happening in **one week**.  Please plan to attend physically or through Discord.  The nominations are as follows:
 
 President | Vice President | Treasurer | Secretary | PR | feck
---------------------------------------------------------------
+--------- | -------------- | --------- | --------- | -- | ----
 Will Haden | Linh Nguyen Mai | Will Haden | Aditya Bhandari | Surinder Ahluwalia | Jordan Durci
 N/A | Chaz Montgomery | Chaz Montgomery | Will Haden | Chaz Montgomery | Gwen Snyder
 N/A | Surinder Ahluwalia | N/A | Chaz Montgomery | N/A | Linh Nguyen Mai
