@@ -22,6 +22,27 @@ nav, strong{
   font-weight: 500;
 }
 
+table {
+  font-family: 'Special Elite', serif;
+}
+
+td {
+  padding: 3pt 3pt 3pt 3pt;
+  border-style: solid;
+  border-width: 1pt 1pt 1pt 1pt;
+  font-family: 'Special Elite', serif;
+  font-size: 70%;
+}
+
+th {
+  padding: 3pt 3pt 3pt 3pt;
+  font-weight: bold;
+  border-style: solid;
+  border-width: 1pt 1pt 1pt 1pt;
+  font-family: 'Special Elite', serif;
+  font-size: 90%;
+}
+
 .header{
   background-image: linear-gradient($backgroundColour, $headerColour, darken($headerColour, 10%));
   box-shadow: 0 0.15em 0.25em $linkColour;
@@ -76,6 +97,10 @@ nav, strong{
   font-family: "Special Elite", "Sriracha", serif;
   font-style: normal;
   font-weight: 400;
+}
+
+.typeset table thead th {
+  font-size: 90%;
 }
 
 .typeset code, .typeset pre{
