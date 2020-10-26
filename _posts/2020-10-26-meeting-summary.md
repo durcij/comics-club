@@ -37,8 +37,9 @@ President | Vice President | Treasurer | Secretary | PR | feck
 Will Haden | Linh Nguyen Mai | Will Haden | Aditya Bhandari | Surinder Ahluwalia | Jordan Durci
 &#10240; | Chaz Montgomery | Chaz Montgomery | Will Haden | Chaz Montgomery | Gwen Snyder
 &#10240; | Surinder Ahluwalia | &#10240; | Chaz Montgomery | &#10240; | Linh Nguyen Mai
-&#10240; | &#10240; | &#10240; | Linh Nguyen Mai | &#10240; | Mike Eltman  
+&#10240; | &#10240; | &#10240; | Linh Nguyen Mai | &#10240; | Mike Eltman
 
+<br>
 T-shirts have been designed!  We'll be getting them, and hopefully masks, to everyone as soon as possible (which is looking to be October at the soonest...)!
 
 Send us comics for the Green Stripe!  They can be good, they can be bad, they can be silly, they can be sad.  Be it in crayon, marker, pencil, or pen, if it gets sent we'll put it in!  Send them my way at <[nguyenmail](mailto:nguyenmail@allegheny.edu)>.  More info on the Green Stripe will be coming soon, as well!
