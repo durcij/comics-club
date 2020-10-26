@@ -22,6 +22,21 @@ nav, strong{
   font-weight: 500;
 }
 
+table {
+  font-family: 'Special Elite', serif;
+}
+
+td {
+  border-style: solid;
+  border-width: 1pt 1pt 1pt 1pt;
+}
+
+th {
+  font-weight: bold;
+  border-style: solid;
+  border-width: 1pt 1pt 1pt 1pt;
+}
+
 .header{
   background-image: linear-gradient($backgroundColour, $headerColour, darken($headerColour, 10%));
   box-shadow: 0 0.15em 0.25em $linkColour;
