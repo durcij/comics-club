@@ -113,21 +113,61 @@ tr:nth-child(even) {
   font-weight: 400;
 }
 
-.typset table {
-  @media screen and (min-width: 100em) {
+.typeset table {
+  line-height: 2rem;
+  font-size: 1.1916666667rem;
+  margin-bottom: -0.60676rem;
+  padding-top: 0pt;
+  font-feature-settings: 'liga', 'lnum', 'tnum', 'kern';
+  font-style: normal;
+  font-weight: 400;
+  width: 100%; }
+  @media screen and (min-width: 40em) {
     .typeset table {
-      padding-top: 0pt; } }
-  @media screen and (min-width: 64em) {
-    .typeset table {
+      font-size: 1.0928571429rem;
+      margin-bottom: -0.6393671429rem;
       padding-top: 0pt; } }
   @media screen and (min-width: 50em) {
     .typeset table {
+      font-size: 1.0866666667rem;
+      margin-bottom: -0.64141rem;
       padding-top: 0pt; } }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 64em) {
     .typeset table {
+      font-size: 0.9941176471rem;
+      margin-bottom: -0.6719511765rem;
       padding-top: 0pt; } }
-  padding-top: 0pt;
-}
+  @media screen and (min-width: 100em) {
+    .typeset table {
+      font-size: 0.9263157895rem;
+      margin-bottom: -0.6943257895rem;
+      padding-top: 0pt; } }
+  .typeset table thead th {
+    line-height: 2rem;
+    font-size: 1.3333333333rem;
+    margin-bottom: -0.56001rem;
+    padding-top: 0pt;
+    padding-bottom: 0pt; }
+    @media screen and (min-width: 40em) {
+      .typeset table thead th {
+        font-size: 1.2142857143rem;
+        margin-bottom: -0.5992957143rem;
+        padding-top: 0pt; } }
+    @media screen and (min-width: 50em) {
+      .typeset table thead th {
+        font-size: 1.2rem;
+        margin-bottom: -0.60401rem;
+        padding-top: 0pt; }
+    @media screen and (min-width: 64em) {
+      .typeset table thead th {
+        font-size: 1.1764705882rem;
+        margin-bottom: -0.6117747059rem;
+        padding-top: 0pt; } }
+    @media screen and (min-width: 100em) {
+      .typeset table thead th {
+        font-size: 1.1578947368rem;
+        margin-bottom: -0.6179047368rem;
+        padding-top: 0pt; } }
 
 .typeset table thead th {
   font-size: 90%;
