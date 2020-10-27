@@ -165,12 +165,9 @@ tr:nth-child(even) {
         padding-top: 0pt; } }
     @media screen and (min-width: 100em) {
       .typeset table thead th {
-        font-size: 1.1578947368rem;
+        font-size: 90%;
         margin-bottom: -0.6179047368rem;
         padding-top: 0pt; } }
-
-.typeset table thead th {
-  font-size: 90%;
 }
 
 .typeset code, .typeset pre{
