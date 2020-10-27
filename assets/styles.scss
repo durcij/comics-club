@@ -115,6 +115,18 @@ tr:nth-child(even) {
 
 .typset table {
   padding: 0pt 0pt 0pt 0pt;
+  @media screen and (min-width: 40em) {
+    .typeset table {
+      padding-top: 0pt; } }
+  @media screen and (min-width: 50em) {
+    .typeset table {
+      padding-top: 0pt; } }
+  @media screen and (min-width: 64em) {
+    .typeset table {
+      padding-top: 0pt; } }
+  @media screen and (min-width: 100em) {
+    .typeset table {
+      padding-top: 0pt; } }
 }
 
 .typeset table thead th {
