@@ -24,6 +24,9 @@ nav, strong{
 
 table {
   font-family: 'Special Elite', serif;
+  border: solid;
+  border-width: 5pt 5pt 5pt 5pt;
+  border-radius: .15em;
 }
 
 td {
@@ -41,6 +44,15 @@ th {
   border-width: 1pt 1pt 1pt 1pt;
   font-family: 'Special Elite', serif;
   font-size: 90%;
+  background-color: $linkColour;
+}
+
+tr:nth-child(odd) {
+  background-color: $lighterHeaderColour;
+}
+
+tr:nth-child(even) {
+  background-color: $darkerHeaderColour;
 }
 
 .header{
@@ -108,7 +120,7 @@ th {
   padding-top: .4em;
   margin: 0;
   font-size: 85%;
-  background-color: lighten($headerColour, 10%);
+  background-color: $lighterHeaderColour;
   font-family:  "Special Elite", "Menlo", monospace;
   border-radius: 6px;
 }
