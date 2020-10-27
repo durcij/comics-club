@@ -9,7 +9,7 @@ $white: #fff;
 $blackish: rgba(0, 0, 0, .25);
 
 $backgroundColour: #f2d191;
-$lighterBackgroundColour: lighten($backgroundColour, 10%);
-$darkerBackgroundColour: darken($backgroundColour, 10%);
+$lighterHeaderColour: lighten($headerColour, 10%);
+$darkerHeaderColour: darken($headerColour, 10%);
 $headerColour: #cba151;
 $postColour: #e6da5c;
