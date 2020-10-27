@@ -114,19 +114,19 @@ tr:nth-child(even) {
 }
 
 .typset table {
-  padding-top: 0pt;
-  @media screen and (min-width: 40em) {
-    .typeset table {
-      padding-top: 0pt; } }
-  @media screen and (min-width: 50em) {
+  @media screen and (min-width: 100em) {
     .typeset table {
       padding-top: 0pt; } }
   @media screen and (min-width: 64em) {
     .typeset table {
       padding-top: 0pt; } }
-  @media screen and (min-width: 100em) {
+  @media screen and (min-width: 50em) {
     .typeset table {
       padding-top: 0pt; } }
+  @media screen and (min-width: 40em) {
+    .typeset table {
+      padding-top: 0pt; } }
+  padding-top: 0pt;
 }
 
 .typeset table thead th {
