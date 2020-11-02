@@ -1,24 +1,24 @@
 ---
 layout: post
-title: Meeting Summary (October 26, 2020)
+title: Meeting Summary (November 2, 2020)
 categories:
 - General
-- Art
+- Clerical
 ---
 
-This week, we nominated a new board, and played Pictionary over Drawpile!
+This week, we nominated new stuff to *discuss*, and voted on the new board!
 
 ## Officer Announcements
 
-**Jordan:**  Lab today broke.  File too big.
+**Jordan:**  This week on Comics Club:  we're gunna yeet the old board! \*throws snowball out the window from the third story\*
 
-**Linh:**  Speedrunning is fun.  (Will:  No it's not!)
+**Linh:**  Snow is fun.
 
-**Will:**  I need four AA batteries and a way to speedrun O-Chem.
+**Will:**  I almost got hit with a pumpkin.
 
 **Gabby:**  N/A
 
-**Gwen:**  8:00 AM's are really hard not to miss.
+**Gwen:**  It is crunch time for comp now.
 
 **feck:**  *Not feckin' applicable*
 
@@ -26,18 +26,19 @@ This week, we nominated a new board, and played Pictionary over Drawpile!
 
 Comics Club Complete is every weekend, alternating between *discussing* things and other events like Live Read and reading and drawing days.
 
-To vote for this week's live read, which will be **ON HALLOWEEN** click [here](https://forms.gle/8fu5RetP7cVUJtuv5)!  Feel free to come in costume!
+To vote for this week's *discussion* click [here](https://forms.gle/WhHW9dHesSFzRt3s7
+)!
 
-Copyright Free Art-tober is here!  You can send your submissions however you like!  If you post it on Instagram, please use the hashtag "#acarttober2020" to let us know you're submitting it to us!  This is the last week!
+In two weeks, we'll be joining LAG's Extra Life adventures with a 24 hour reading and drawing day!
 
-Elections will be happening in **one week**.  Please plan to attend physically or through Discord.  The nominations are as follows:
+Elections have happened!  The winners (bold) are as follows:
 
 President | Vice President | Treasurer | Secretary | PR | feck
 --------- | -------------- | --------- | --------- | -- | ----
-Will Haden | Linh Nguyen Mai | Will Haden | Aditya Bhandari | Surinder Ahluwalia | Jordan Durci
-&#10240; | Chaz Montgomery | Chaz Montgomery | Will Haden | Chaz Montgomery | Gwen Snyder
-&#10240; | <strike>Surinder Ahluwalia</strike> | &#10240; | Chaz Montgomery | &#10240; | Linh Nguyen Mai
-&#10240; | &#10240; | &#10240; | Linh Nguyen Mai | &#10240; | Mike Eltman
+**Will Haden** | **Linh Nguyen Mai** | Will Haden | **Aditya Bhandari** | **Surinder Ahluwalia** | **Jordan Durci**
+&#10240; | Chaz Montgomery | **Chaz Montgomery** | Will Haden | Chaz Montgomery | **Gwen Snyder**
+&#10240; | &#10240; | &#10240; | Chaz Montgomery | &#10240; | Linh Nguyen Mai
+&#10240; | &#10240; | &#10240; | Linh Nguyen Mai | &#10240; | **Mike Eltman**
 
 <br>
 T-shirts have been designed!  We'll be getting them, and hopefully masks, to everyone as soon as possible (which is looking to be October at the soonest...)!
@@ -71,5 +72,8 @@ Students interested in **Game Design**, please fill out this survey about how a 
 ## Recommendations
 * [Spaghetti in a Jar](https://www.spaghettiinajar.com/) (If you give them money, they will put more pasta in a jar.)
 * [Jordan's Comp](https://github.com/durcij/game-for-comp/blob/master/SeniorThesis.pdf)
-* Umbrella Academy
-* One Piece
+* Reese's Puffs commercials
+* Fullmetal Alchemist
+* Fullmetal Alchemist:  Brotherhood
+* Sunsets
+* Snow
