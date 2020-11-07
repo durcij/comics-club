@@ -22,7 +22,7 @@ The following are all of Comics Club's upcoming events!
 **Location:** CC 301/302  
 **Description:** We're teaming up with LAG and ARGO for this year's Extra Life charity event!  On November 14th, we'll be bringing some of our comics and art supplies to the event!  We'll be there for 24 hours straight!  If you want to participate in raising money for Extra Life, join our team [here](https://www.extra-life.org/team/54836)!  
 
-#COMPLETED EVENTS FOR THE YEAR
+# COMPLETED EVENTS FOR THE YEAR
 
 ## Copyright Free Art-tober 2020
 **Date:** October 1st through 31st, 2020  
