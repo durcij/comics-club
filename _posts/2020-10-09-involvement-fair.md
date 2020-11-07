@@ -6,7 +6,7 @@ categories:
 - Clerical
 ---
 
-Thank you for taking some time to stop by our website!  There are details on our club goings-on in our [About](https://comicsclub.netlify.app/about.html) page, and information on our current board in the [Officers and More](https://comicsclub.netlify.app/officers.html) page!
+Thank you for taking some time to stop by our website!  There are details on our club goings-on in our [About](https://comicsclub.netlify.app/about.html) page, and information on our current board in the [Officers+](https://comicsclub.netlify.app/officers.html) page!
 
 If you haven't done so already, please feel free to check out our introductory video below!
 
