@@ -34,7 +34,7 @@ We now have a digital Green Stripe library!  Check it out [here](https://comicsc
 
 ## Member Announcements
 
-Check out the Extra Life event on Saturday to support the Allegheny students (https://www.extra-life.org/index.cfm?fuseaction=donorDrive.team&teamID=54836)
+Check out the Extra Life event on Saturday to support the Allegheny students [here](https://www.extra-life.org/index.cfm?fuseaction=donorDrive.team&teamID=54836).
 
 ### Other Clubs
 
