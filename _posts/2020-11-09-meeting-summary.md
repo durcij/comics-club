@@ -20,7 +20,7 @@ This week, we had our new broad proceed with their first meeting and introducing
 
 **Aditya:**  I hate waiting
 
-**feck:**   "Whoop-feckscoop-fecpoop/ Poop-feckscoopty" (Lyrics by Kanye West's Lift Yourself)
+**feck:**   "Whoop-feckscoop-feckpoop/ Poop-feckscoopty" (Lyrics by Kanye West's Lift Yourself)
 
 ## Important Notices
 
