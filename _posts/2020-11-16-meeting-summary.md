@@ -20,7 +20,7 @@ This week, we had our last in person meeting for the end of the semester and rev
 
 **Aditya:**  I think The Matrix, Aliens, and other powerful and certain forces out there are real, unstoppable, pure evil, and after us for no reason. Also STAY OFF ON SOCIAL MEDIA because people are spoiling Miles Morales already.
 
-**feck:**     Bite of the banana, bite of the orange, bite of the womb bat s--t.
+**feck:**     Bite of the banana, bite of the orange, bite of the wombat s--t.
 
 ## Important Notices
 
