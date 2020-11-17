@@ -16,7 +16,7 @@ This week, we had our new broad proceed with their first meeting and introducing
 
 **Chaz:**  (*Laughs*) Don't zone out while driving
 
-**Surinder:** M.I.A, so here is his Discord highlight: "ayo i can abuse my position as officer for clout/ay follow my twitter/jk.... unless"
+**Surinder:** M.I.A, so here is his Discord highlight: "Ayo I can abuse my position as officer for clout/ay follow my twitter/jk.... unless"
 
 **Aditya:**  I think The Matrix, Aliens, and other powerful and certain forces out there are real, unstoppable, pure evil, and after us for no reason. Also STAY OFF ON SOCIAL MEDIA because people are spoiling Miles Morales already.
 
