@@ -7,6 +7,7 @@ categories:
 ---
 
 This week, we had our last in person meeting for the end of the semester and reviewing the Extra Life event from Saturday.
+
 ## Officer Announcements
 
 **Will:**  Congratulations to everyone who attended Extra Life!!!!! And I hope everyone has a good break!!!!
