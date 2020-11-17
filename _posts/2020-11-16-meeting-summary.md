@@ -6,8 +6,7 @@ categories:
 - Clerical
 ---
 
-This week, we had our new broad proceed with their first meeting and introducing Extra Life Event this Saturday.
-
+This week, we had our last in person meeting for the end of the semester and reviewing the Extra Life event from Saturday.
 ## Officer Announcements
 
 **Will:**  Congratulations to everyone who attended Extra Life!!!!! And I hope everyone has a good break!!!!
