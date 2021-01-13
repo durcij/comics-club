@@ -6,7 +6,7 @@ categories:
 - Art
 ---
 
-This week, we had our new broad proceed with their first meeting and introducing Extra Life Event this Saturday.
+This week, we had our new board proceed with their first meeting and introducing Extra Life Event this Saturday.
 
 ## Officer Announcements
 
