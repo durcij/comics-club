@@ -1,24 +1,24 @@
 ---
 layout: post
-title: Meeting Summary (January 25, 2021)
+title: Meeting Summary (February 01, 2021)
 categories:
 - General
 - Art
 ---
 
-This week, we had our first meeting of the new year for 2021 .
+This week, we were reviewing over the *discussion* from this weekend  .
 
 ## Officer Announcements
 
-**Will:**  Congrats on 2021 and surviving 2020 get ready for the next round
+**Will:**  Hope everybody enjoyed Wandavision
 
-**Linh:**  Blockchain Speedrun
+**Linh:**  Uhhh..... I just found that you can actually look at other senior's comp online (chuckles)
 
-**Chaz:**  MMMMMMMMMMMM
+**Chaz:**  Uhhh..... its.... snowing here.. in the ville, that's my announcement
 
-**Surinder:**  (                  )
+**Surinder:**  Play Omori
 
-**Aditya:**  I hate waiting
+**Aditya:**  I had a Karen scream at me at work on Saturday and keep procrastinating English
 
 **feck:**   Since Chunk of the feck is getting married get ready for the fecking wedding
 
